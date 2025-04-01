@@ -9,7 +9,7 @@ on:
   workflow_dispatch:
     # Inputs the workflow accepts.
     inputs:
-      name:
+      filename:
         # Friendly description to be shown in the UI instead of 'name'
         description: 'Name of the new chapter file (without.md)'
         # Default value if no value is explicitly provided
