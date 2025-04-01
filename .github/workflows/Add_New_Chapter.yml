@@ -31,6 +31,9 @@ jobs:
     # Accesses the repository
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          ref: major_debug_draft  # Ensure 'dev' is checked out
+          fetch-depth: 0  # Fetch all branches
     # Sets up Actions as the commit author
       - name: Set up Git
         run: |
