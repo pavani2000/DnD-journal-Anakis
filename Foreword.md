@@ -1,0 +1,5 @@
+# Foreword
+
+I was mistaken when I wrote that the Letter to the Creator would be the only time I’d written truth. I have begun what has turned out to be a very arduous journey. I suppose I should have expected it considering this task is unique among those assigned to me by the Collector. What I thought would be a mundane investigation has turned out to have otherworldly meddling, aside from that of the Archfey. I may be personally invested as I do not want the world to end, atleast, not until I find true freedom and live a life. The journey has become more complex than I wanted it to be. It might take weeks or months before I find the diplomat I am looking for, that is assuming the delegation he is part of has not been vanquished. It is best I keep a record of my encounters, both to record the clues to the mystery and to memorise this unique journey. The reader must note that I am not the most reliable narrator as much gets muddled in my ever-active mind. I will try to be as accurate as I can be. 
+
+Anakis
