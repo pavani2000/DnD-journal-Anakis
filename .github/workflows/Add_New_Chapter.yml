@@ -52,4 +52,8 @@ jobs:
           git commit -m "Add new chapter: ${{ github.event.inputs.filename }}"
     #Push the new branch from virtual machine to remote repository
       - name: Push new branch
-        run: git push origin add-chapter-${{ github.event.inputs.filename }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
+          git push origin add-chapter-${{ github.event.inputs.filename }}
