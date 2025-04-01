@@ -1,7 +1,7 @@
 # When triggered, it creates a new branch off of major_debug_draft 
 #and a new file to write the chapter. 
 
-name: Add a new chapter
+name: Major updates for a chapter
 
 # Controls when the action will run. Workflow runs when manually triggered using the UI
 # or API.
