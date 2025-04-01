@@ -41,7 +41,7 @@ jobs:
           git config --global user.email 'actions@github.com'
     #Create a new branch
       - name: Create new branch
-        run: git checkout -b add-chapter-${{ github.event.inputs.filename }} major_debug_draft
+        run: git checkout -b add-${{ github.event.inputs.filename }} major_debug_draft
     #Create the new markdown file
       - name: Create new file
         run: echo "# New Chapter" > ${{ github.event.inputs.filename }}.md
