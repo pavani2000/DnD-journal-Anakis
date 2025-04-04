@@ -1,8 +1,8 @@
 # Chapter 2: Feathergale Spire 
 
-WHEN DID I WRITE THIS? 
+The others are setting up the campfire. IT WAS A LONG DAY, AGAIN.  
 
-At first, I thought I should switch out Vicious Mockery for a stealthy cantrip. Especially since we may be walking into Feathergale Spire soon. I decided not to do so. 
+This morning, I'd thought I should switch out Vicious Mockery for a stealthy cantrip which would have been useful very very useful had I not decided against it. 
 
 There was a slight confusion in the decision on how to approach the spire. I felt quite drugged from sleep, and I was not feeling like talk. I kept quiet while the others discussed. It seems they forgot that the people of the Feathergale Spire were part of the cult skirmish that involved the delegation. Considering they do not know us and that they may not consider us as their enemies, I decided to follow the group. 
 
